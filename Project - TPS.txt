@@ -2,4 +2,4 @@ Project TPS Mandiri
 - Runing script seminggu 3 kali
 - developmenyt fitur BVA
 - membuat regresi TPS lebih cepat
-- Re - run jika ada issue
+- tidak ada issue lagi
